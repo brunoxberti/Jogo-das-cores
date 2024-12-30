@@ -4,7 +4,7 @@ Esse foi um projeto chamado Jogo das Cores que eu e um colega fizemos para a aul
 
 O Projeto foi feito em C++ e OpenGl utilizando a biblioteca GLFW
 
-Tratase de um Jogo em que o objetivo é clicar nos retangulos que possuem o maximo numero de retamgulos que possuem uma cor semelhante ao  retangulo clicado.
+Tratase de um Jogo em que o objetivo é clicar nos retangulos que possuem o maximo numero de retamgulos que possuem uma cor semelhante ao clicado.
 Quanto mais cedo no jogo um retangulo for eleminado mais pontos você consiguira.
 
 ### Como Rodar:
@@ -28,7 +28,7 @@ This was a project called Game of Colors that me and a colleague made for my com
 
 The project was made in C++ and OpenGl using a GLFW library.
 
-It's a game in which the objective is to click on rectangles which have the maximum number of other rectangles with similar colors.
+It's a game in which the objective is to click on the rectangles which have the maximum number of other rectangles with similar colors.
 The sooner a rectangle is eliminated the more points you get.
 
 ### How to run:
@@ -36,7 +36,7 @@ The sooner a rectangle is eliminated the more points you get.
 - Open the file "Sabertooth.sln" using Visual Studio
 - Run the "main.cpp" class
 
-The game can be custumized by changing certain 
+The game can be customized by changing certain 
 
 - The integer "linhas" controls the number of lines
 - The integer "colunas" conrols the number of columns
